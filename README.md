@@ -1,5 +1,7 @@
-# Viva-New-Vegas-Patch-Emporium
-Various files and patches for the Viva New Vegas modding guide
+# Viva New Vegas Patch Emporium
+Various files and patches for the [Viva New Vegas])https://vivanewvegas.github.io/) modding guide
+
+[Main GitHub Repo](https://github.com/VivaNewVegas/vivanewvegas.github.io)
 
 Credits:
 - All the authors of the mods I have ESP replacers for
